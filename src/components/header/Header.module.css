@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  background: rgb(247, 246, 246);
+  border-radius: 5px;
+  align-items: center;
+  padding: 10px 0px;
+}
+
+.authorization {
+  margin-left: auto;
+}

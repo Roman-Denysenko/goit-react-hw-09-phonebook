@@ -1,0 +1,14 @@
+.container {
+  background-image: url(https://preview.redd.it/s9g6rtr3dub41.jpg?width=960&crop=smart&auto=webp&s=1459417c16bcf2413a0f25f5ea223119df122d4f);
+  height: 500px;
+  width: auto;
+  background-size: cover;
+  padding-top: 50px;
+}
+
+.title {
+  text-align: center;
+  margin: 0px;
+  color: rgb(0, 0, 0);
+  font-size: -webkit-xxx-large;
+}
